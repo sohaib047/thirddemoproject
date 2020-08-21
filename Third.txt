@@ -1,1 +1,3 @@
 Learning reset and revert in Git
+
+Changing in local
