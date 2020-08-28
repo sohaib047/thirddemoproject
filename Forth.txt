@@ -1,3 +1,5 @@
 this is forth file in smartgit
 
 thirddemoproject
+
+change in local
