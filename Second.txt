@@ -5,3 +5,5 @@ change in dev thirddemoproject
 change in master for merge
 
 for rebase
+
+rebase change in smartgit
