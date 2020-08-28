@@ -1,1 +1,3 @@
 text in smartgit local to remote
+
+change in dev thirddemoproject
