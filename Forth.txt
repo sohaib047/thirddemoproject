@@ -1,1 +1,3 @@
 this is forth file in smartgit
+
+thirddemoproject
