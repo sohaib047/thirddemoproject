@@ -5,3 +5,5 @@ This is in smartgit
 local change
 
 change in test branch local
+
+change for rebase smartGit
