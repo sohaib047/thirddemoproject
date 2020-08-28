@@ -1,1 +1,3 @@
 this is 5th file in 3rddemoproject
+
+change for rebase in master
